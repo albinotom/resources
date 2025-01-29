@@ -23,8 +23,8 @@ var staff_team = [
 
 
 // Staff Settings
-const showStaffTeam = true
-const showPlayersList = true
+const showStaffTeam = false
+const showPlayersList = false
 
 
 // orange
@@ -33,7 +33,7 @@ const showPlayersList = true
 // green
 // pink
 // purple
-const theme = "orange"
+const theme = "blue"
 
 // ==== WINTER UPDATE !! ==== \\
 const enableWinterUpdate = false
