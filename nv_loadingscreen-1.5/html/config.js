@@ -41,13 +41,13 @@ const enableWinterUpdate = false
 
 
 // Text settings
-const name = "<strong>NEV</strong>ERA"
+const name = "<strong>ALBINO</strong>TOM"
 const underName = "ROLE<b>PLAY</b>"
 const desc = "FiveM Roleplay server featuring an extensive collection of custom scripts, maps, vehicles, unique weapons, and much more."
 
 
 // Social media
-const discord = "https://discord.gg/NeveraDev/tw28AqrgWU"  // If = "" then icon will not show up on screen
+const discord = ""  // If = "" then icon will not show up on screen
 const instagram = ""	// https://example.com
 const youtube = "" 		// https://example.com
 const twitter = "" 		// https://example.com
@@ -60,7 +60,7 @@ const github = "" 		// https://example.com
 
 // Player List
 const serverCode = "******" //Your server CODE from fivem. (cfx.re/join/abcdef) this ABCDEF is your code, paste it in serverCode. 
-const playerProfileImage = "https://forum.cfx.re/user_avatar/forum.cfx.re/neveradevelopment/144/4447132_2.png"
+const playerProfileImage = "https://cdn.discordapp.com/attachments/1301994854779453492/1334292687607693444/TFC-removebg-preview.png?ex=679c0066&is=679aaee6&hm=a012fc63e88c43a164ca6612b5249a2ca9ffac1cb013f12975bffb1b217b0d1a&"
 
 
 // Video Settings
@@ -69,8 +69,8 @@ var videoOpacity = 0.3
 
 
 // Example link: https://www.youtube.com/watch?v=abcdefgh
-const youtubeVideo = ""
-const showYoutubeVideo = false
+const youtubeVideo = "https://www.youtube.com/watch?v=DAQYMyzE8ww"
+const showYoutubeVideo = true
 
 // Local Video
 const enableLocalVideo = false
