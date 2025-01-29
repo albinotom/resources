@@ -1,0 +1,10 @@
+{
+  "sirens": {
+    "toneOne": "VEHICLES_HORNS_SIREN_1",
+    "toneTwo": "VEHICLES_HORNS_SIREN_2",
+    "toneThree": "VEHICLES_HORNS_POLICE_WARNING",
+    "toneFour": "VEHICLES_HORNS_AMBULANCE_WARNING"
+  },
+  "999mode": true,
+  "nonels": true
+}

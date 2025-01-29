@@ -1,0 +1,100 @@
+{
+  "sirens": {
+    "toneOne": "RESIDENT_VEHICLES_SIREN_FIRETRUCK_WAIL_01",
+    "toneTwo": "RESIDENT_VEHICLES_SIREN_FIRETRUCK_QUICK_01",
+    "toneThree": "VEHICLES_HORNS_FIRETRUCK_WARNING"
+  },
+  "999mode": true,
+  "pattern": {
+    "primary": {
+      "01": {
+        "duration": "80",
+        "extras": [
+          "01",
+          "02"
+        ]
+      },
+      "02": {
+        "duration": "80",
+        "extras": [
+          "01",
+          "02",
+          "03",
+          "04"
+        ]
+      },
+      "03": {
+        "duration": "80",
+        "extras": [
+          "03",
+          "04"
+        ]
+      },
+      "04": {
+        "duration": "80",
+        "extras": [
+          ""
+        ]
+      },
+      "05": {
+        "duration": "80",
+        "extras": [
+          "01",
+          "02"
+        ]
+      }
+    },
+    "secondary": {
+      "01": {
+        "duration": "280",
+        "extras": [
+          "06"
+        ]
+      },
+      "02": {
+        "duration": "160",
+        "extras": [
+          ""
+        ]
+      },
+      "03": {
+        "duration": "280",
+        "extras": [
+          "05"
+        ]
+      },
+      "04": {
+        "duration": "160",
+        "extras": [
+          ""
+        ]
+      }
+    },
+    "tertiary": {
+      "01": {
+        "duration": "160",
+        "extras": [
+          "09"
+        ]
+      },
+      "02": {
+        "duration": "160",
+        "extras": [
+          ""
+        ]
+      },
+      "03": {
+        "duration": "160",
+        "extras": [
+          "07"
+        ]
+      },
+      "04": {
+        "duration": "160",
+        "extras": [
+          ""
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sirens": {
+    "toneOne": "SIREN_ALPHA",
+    "toneTwo": "SIREN_BRAVO",
+    "toneThree": "SIREN_CHARLIE",
+    "toneFour": "SIREN_ECHO"
+  },
+  "customSirensBank": "DLC_WMSIRENS_SOUNDSET",
+  "999mode": true,
+  "nonels": true
+}

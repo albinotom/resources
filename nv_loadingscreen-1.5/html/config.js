@@ -69,7 +69,7 @@ var videoOpacity = 0.3
 
 
 // Example link: https://www.youtube.com/watch?v=abcdefgh
-const youtubeVideo = "https://www.youtube.com/watch?v=DAQYMyzE8ww"
+const youtubeVideo = "https://youtu.be/DAQYMyzE8ww?si=eb9tHZRBaiwkaAvc"
 const showYoutubeVideo = true
 
 // Local Video
