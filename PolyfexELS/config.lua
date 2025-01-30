@@ -4,7 +4,7 @@ Config = {
 	Framework = "qb", -- Valid Options: qb, standalone
 	DebugMode = true, -- Show debug printDebugs
 	-- NineNineVolume = 0.2, -- Volume of 999mode sound, default 0.2 if not set
-	KeepSirensOnExit = false, -- Should sirens stay on when the user exits
+	KeepSirensOnExit = true, -- Should sirens stay on when the user exits
 	UsingCustomSirens = {
 		"DLC_LGMODS\\sirenpack_one",
 		"DLC_LGMODS\\sirenpack_two",

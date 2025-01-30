@@ -72,8 +72,8 @@ end
 
 -- Controls disabled when in vehicle
 function disableControls()
-	DisableControlAction(0, 38, true) -- E
-	DisableControlAction(0, 86, true) -- E
+	DisableControlAction(0, 38, false) -- E
+	DisableControlAction(0, 86, false) -- E
 	DisableControlAction(0, 80, true) -- R
 end
 
@@ -87,6 +87,6 @@ end)
 RegisterKeyMapping('-els_lights_primary', 'Toggle Primary Lights', 'keyboard', 'Q')
 RegisterKeyMapping('-els_lights_secondary', 'Toggle Secondary Lights', 'keyboard', 'K')
 RegisterKeyMapping('-els_lights_tertiary', 'Toggle Tertiary Lights', 'keyboard', 'L')
-RegisterKeyMapping('-els_siren', 'Toggle Sirens', 'keyboard', 'TAB')
-RegisterKeyMapping('-els_siren_change', 'Switch Sirens', 'MOUSE_WHEEL', 'IOM_WHEEL_DOWN')
-RegisterKeyMapping('+els_siren_blip', 'Blip Siren', 'keyboard', 'R')
+RegisterKeyMapping('-els_siren', 'Toggle Sirens', 'keyboard', 'SHIFT')
+RegisterKeyMapping('-els_siren_change', 'Switch Sirens', 'keyboard', 'TIDLE')
+RegisterKeyMapping('+els_siren_blip', 'Blip Siren', 'keyboard', 'TAB')
