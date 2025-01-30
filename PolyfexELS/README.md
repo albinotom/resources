@@ -20,7 +20,7 @@ Below can be found a breakdown of the JSON files.
     "toneThree": "VEHICLES_HORNS_POLICE_WARNING",
     "toneFour": "VEHICLES_HORNS_AMBULANCE_WARNING"
   },
-  "999mode": true, If false, 999mode wont be used when lights are turned on
+  "999mode": false, If false, 999mode wont be used when lights are turned on
   "pattern": {
     Light modes patterns the vehicle will use
     "primary": {
