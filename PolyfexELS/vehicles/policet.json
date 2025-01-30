@@ -1,11 +1,12 @@
 {
   "sirens": {
-    "toneOne": "VEHICLES_HORNS_SIREN_1",
-    "toneTwo": "VEHICLES_HORNS_SIREN_2",
-    "toneThree": "VEHICLES_HORNS_POLICE_WARNING",
-    "toneFour": "VEHICLES_HORNS_AMBULANCE_WARNING"
+    "toneOne": "SIREN_LIMA",
+    "toneTwo": "SIREN_MIKE",
+    "toneThree": "SIREN_NOVEMBER",
+    "toneFour": "SIREN_DELTA"
   },
-  "999mode": true,
+  "customSirensBank": "SIRENPACK_TWO_SOUNDSET",
+  "999mode": false,
   "pattern": {
     "primary": {
       "01": {
