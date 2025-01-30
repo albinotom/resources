@@ -3,7 +3,6 @@
     "toneOne": "SIREN_ALPHA",
     "toneTwo": "SIREN_BRAVO",
     "toneThree": "SIREN_CHARLIE",
-    "toneFour": "SIREN_DELTA"
   },
   "customSirensBank": "SIRENPACK_ONE_SOUNDSET",
   "999mode": false,
@@ -74,25 +73,25 @@
     },
     "tertiary": {
       "01": {
-        "duration": "160",
+        "duration": "280",
         "extras": [
           "09"
         ]
       },
       "02": {
-        "duration": "210",
+        "duration": "280",
         "extras": [
           ""
         ]
       },
       "03": {
-        "duration": "160",
+        "duration": "280",
         "extras": [
           "07"
         ]
       },
       "04": {
-        "duration": "210",
+        "duration": "280",
         "extras": [
           ""
         ]
