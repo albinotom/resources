@@ -253,11 +253,11 @@ end)
 RegisterCommand("+vehicleDebug", function()
 	if Debugger.toggleOn == false then return end
 	Debugger:Focus(not Debugger.hasFocus)
-end, true)
+end, false)
 
 RegisterKeyMapping("+vehicleDebug", "Vehicle Debugger", "keyboard", "lmenu")
 
 RegisterCommand("vehdebug", function()
 	Debugger:ToggleOn(not Debugger.toggleOn)
 	Debugger.toggleOn = not Debugger.toggleOn
-end, true)
+end, false)
