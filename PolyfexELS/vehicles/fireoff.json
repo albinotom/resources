@@ -1,10 +1,10 @@
 {
   "sirens": {
-    "toneOne": "SIREN_ALPHA",
-    "toneTwo": "SIREN_BRAVO",
-    "toneThree": "SIREN_CHARLIE",
+    "toneOne": "SIREN_UNIFORM",
+    "toneTwo": "SIREN_VICTOR",
+    "toneThree": "SIREN_WHISKEY",
   },
-  "customSirensBank": "SIRENPACK_ONE_SOUNDSET",
+  "customSirensBank": "SIRENPACK_THREE_SOUNDSET",
   "999mode": false,
   "pattern": {
     "primary": {

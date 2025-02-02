@@ -1,11 +1,10 @@
 {
   "sirens": {
-    "toneOne": "SIREN_LIMA",
-    "toneTwo": "SIREN_MIKE",
-    "toneThree": "SIREN_NOVEMBER",
-    "toneFour": "SIREN_DELTA"
+    "toneOne": "SIREN_ALPHA",
+    "toneTwo": "SIREN_BRAVO",
+    "toneThree": "SIREN_CHARLIE",
   },
-  "customSirensBank": "SIRENPACK_TWO_SOUNDSET",
+  "customSirensBank": "SIRENPACK_ONE_SOUNDSET",
   "999mode": false,
   "pattern": {
     "primary": {
@@ -80,7 +79,7 @@
         ]
       },
       "02": {
-        "duration": "160",
+        "duration": "280",
         "extras": [
           ""
         ]
@@ -92,7 +91,7 @@
         ]
       },
       "04": {
-        "duration": "160",
+        "duration": "280",
         "extras": [
           ""
         ]
