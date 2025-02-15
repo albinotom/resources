@@ -2004,4 +2004,59 @@ return {
 			image = "veh_turbo.png",
 		}
 	},
+
+	["treasuremap"] = {
+		label = "Treasure Map",
+		weight = 100,
+		stack = true,
+		close = true,
+		description = "Shrivelled up paper",
+		client = {
+			image = "treasuremap.png",
+		}
+	},
+
+	["metaldetector"] = {
+		label = "Metal Detector",
+		weight = 200,
+		stack = true,
+		close = true,
+		description = "*beep*, *beep*",
+		client = {
+			image = "metaldetector.png",
+		}
+	},
+
+	["emeraldore"] = {
+		label = "Emerald Ore",
+		weight = 100,
+		stack = true,
+		close = true,
+		description = "Shiny Rock",
+		client = {
+			image = "emeraldore.png",
+		}
+	},
+
+	["goldore"] = {
+		label = "Gold Ore",
+		weight = 100,
+		stack = true,
+		close = true,
+		description = "Shiny Rock",
+		client = {
+			image = "goldore.png",
+		}
+	},
+
+	["diamondore"] = {
+		label = "Diamond Ore",
+		weight = 100,
+		stack = true,
+		close = true,
+		description = "Shiny Rock",
+		client = {
+			image = "diamondore.png",
+		}
+	},
 }
