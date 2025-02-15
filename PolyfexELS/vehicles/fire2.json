@@ -1,7 +1,7 @@
 {
   "sirens": {
     "toneOne": "SIREN_INDIA",
-    "toneTwo": "SIREN_JULIET",
+    "toneTwo": "SIREN_JULIETT",
     "toneThree": "SIREN_KILO",
   },
   "customSirensBank": "SIRENPACK_TWO_SOUNDSET",
