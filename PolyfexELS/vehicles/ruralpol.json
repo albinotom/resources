@@ -1,10 +1,10 @@
 {
   "sirens": {
-    "toneOne": "SIREN_QUEBEC",
-    "toneTwo": "SIREN_ROMEO",
-    "toneThree": "SIREN_TANGO",
+    "toneOne": "SIREN_ALPHA",
+    "toneTwo": "SIREN_BRAVO",
+    "toneThree": "SIREN_CHARLIE",
   },
-  "customSirensBank": "SIRENPACK_THREE_SOUNDSET",
+  "customSirensBank": "SIRENPACK_ONE_SOUNDSET",
   "999mode": false,
   "pattern": {
     "primary": {
@@ -73,7 +73,7 @@
     },
     "tertiary": {
       "01": {
-        "duration": "280",
+        "duration": "160",
         "extras": [
           "09"
         ]
@@ -85,7 +85,7 @@
         ]
       },
       "03": {
-        "duration": "280",
+        "duration": "160",
         "extras": [
           "07"
         ]
