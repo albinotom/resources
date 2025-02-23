@@ -1,9 +1,9 @@
 Config = {}
 
 --- function stuff
-Config.OxInv = false -- If you Use OxInv Then Here You Go
+Config.OxInv = true -- If you Use OxInv Then Here You Go
 Config.QBNewInv = true
-Config.oxtarget = false
+Config.oxtarget = true
 Config.progressbartype = 'qb' -- either 'qb', 'oxcir', 'oxbar'
 Config.minigametype = 'ox' -- either 'ps' or 'ox' or 'none'
 Config.Notify = 'ox' -- -- either 'qb' or 'ox' or 'okok'
