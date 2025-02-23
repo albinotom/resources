@@ -16,19 +16,19 @@ Config = {}
 
 Config.CoreSettings = {
     Notify = {
-        Type = 'qb', -- support for qb-core notify, okokNotify, mythic_notify and ox_lib notify,
+        Type = 'OX', -- support for qb-core notify, okokNotify, mythic_notify and ox_lib notify,
         --use 'qb' for default qb-core notify
         --use 'okok' for okokNotify
         --use 'mythic' for mythic_notify
         --use 'ox' for ox_lib notify
     },
     Target = {
-        Type = 'qb', -- support for qb-target and ox_target
+        Type = 'ox', -- support for qb-target and ox_target
         -- use 'qb' for qb-target
         --use 'ox' for ox_target
     },    
     Inventory = { --support for qb-inventory and ox_inventory
-        Type = 'qb',
+        Type = 'ox',
         --use 'qb' for qb-inventory
         --use 'ox' for ox_inventory
     },
