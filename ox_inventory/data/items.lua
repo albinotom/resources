@@ -2060,113 +2060,91 @@ return {
 		}
 	},
 	--- vape
-	["apple_extract"] = {
-		label = "Apple Extract",
-		weight = 100,
+	["redwoodpack"] = {
+		label = "Redwood Cigarette Pack",
+		weight = 200,
 		stack = true,
-		close = false,
+		close = true,
 		description = "",
 		client = {
-			image = "apple_extract.png",
+			image = "redwoodpack.png",
 		}
 	},
 
-	["watermelon_extract"] = {
-		label = "Watermelon Extract",
-		weight = 100,
+    ["debonairepack"] = {
+		label = "Debonaire Cigarette Pack",
+		weight = 200,
 		stack = true,
-		close = false,
+		close = true,
 		description = "",
 		client = {
-			image = "watermelon_extract.png",
+			image = "debonairepack.png",
 		}
 	},
 
-	["watermelon_vape"] = {
-		label = "Watermelon Vape",
-		weight = 100,
+    ["yukonpack"] = {
+		label = "Yukon Cigarette Pack",
+		weight = 200,
 		stack = true,
-		close = false,
+		close = true,
+		description = "",
+		client = {
+			image = "yukonpack.png",
+		}
+	},
+
+    ["sixtyninepack"] = {
+		label = "Sixty Nine Cigarette Pack",
+		weight = 200,
+		stack = true,
+		close = true,
+		description = "",
+		client = {
+			image = "sixtyninepack.png",
+		}
+	},
+
+    ["cigs"] = {
+		label = "Cigarette",
+		weight = 200,
+		stack = true,
+		close = true,
+		description = "",
+		client = {
+			image = "cigs.png",
+		}
+	},
+
+    ["vape"] = {
+		label = "Electronic Vape",
+		weight = 200,
+		stack = true,
+		close = true,
 		description = "",
 		client = {
 			image = "vape.png",
 		}
 	},
 
-	["vegetable_glycol"] = {
-		label = "Vegetable Glycerin",
-		weight = 100,
+    ["vapejuice"] = {
+		label = "Vape Juice",
+		weight = 200,
 		stack = true,
-		close = false,
+		close = true,
 		description = "",
 		client = {
-			image = "vegetableglycol.png",
+			image = "vapejuice.png",
 		}
 	},
 
-	["propelyne_glycol"] = {
-		label = "Propelyne Glycol",
-		weight = 100,
+    ["lighter"] = {
+		label = "Lighter",
+		weight = 200,
 		stack = true,
-		close = false,
+		close = true,
 		description = "",
 		client = {
-			image = "propelyneglycol.png",
-		}
-	},
-
-	["menthol_vape"] = {
-		label = "Menthol Vape",
-		weight = 100,
-		stack = true,
-		close = false,
-		description = "",
-		client = {
-			image = "vape.png",
-		}
-	},
-
-	["unflavored_juice"] = {
-		label = "Unflavored Juice",
-		weight = 100,
-		stack = true,
-		close = false,
-		description = "",
-		client = {
-			image = "vapebottle.png",
-		}
-	},
-
-	["menthol_extract"] = {
-		label = "Menthol Vape",
-		weight = 100,
-		stack = true,
-		close = false,
-		description = "",
-		client = {
-			image = "menthol_extract.png",
-		}
-	},
-
-	["apple_vape"] = {
-		label = "Apple Vape",
-		weight = 100,
-		stack = true,
-		close = false,
-		description = "",
-		client = {
-			image = "vape.png",
-		}
-	},
-
-	["nicotine"] = {
-		label = "Nicotine",
-		weight = 100,
-		stack = true,
-		close = false,
-		description = "",
-		client = {
-			image = "nicotine.png",
+			image = "lighter.png",
 		}
 	},
 
